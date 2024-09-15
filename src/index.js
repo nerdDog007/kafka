@@ -237,7 +237,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/AnonMsgBoard.jpg'}
               tech="js css react node"
               link="https://kafka-anon-msg-board.glitch.me/"
-              repo="https://github.com/yagoestevez/anonymous-message-board"
+              repo="https://github.com/anonymous-message-board"
             >
               <small>
                 Built using Node, Express, MongoDB, CSS + Bulma, React.js and React Router.
@@ -267,7 +267,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/PersonalLibrary.jpg'}
               tech="js node css"
               link="https://kafka-personal-library.glitch.me/"
-              repo="https://github.com/yagoestevez/fcc-personal-library"
+              repo="https://github.com/fcc-personal-library"
             >
               <small>Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug.</small>
               <p>
@@ -280,7 +280,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/IssueTracker.jpg'}
               tech="js node css"
               link="https://kafka-issue-tracker.glitch.me/"
-              repo="https://github.com/yagoestevez/fcc-issue-tracker"
+              repo="https://github.com/fcc-issue-tracker"
             >
               <small>Built using Node, Express, MongoDB, JS + jQuery, CSS + Bootstrap and Pug.</small>
               <p>Yet another full-stack app to save and manage technical issues to be fixed.</p>
@@ -290,7 +290,7 @@ import './style.css'
               img={'https://raw.kafka.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/MetricImperialConverter.jpg'}
               tech="js node css"
               link="https://kafka-metric-imperial-converter.glitch.me/"
-              repo="https://github.com/yagoestevez/fcc-metric-imperial-converter/"
+              repo="https://github.com/fcc-metric-imperial-converter/"
             >
               <small>Built using Node, Express, JS + jQuery, CSS + Bootstrap and Pug.</small>
               <p>
@@ -303,7 +303,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Cortala.jpg'}
               tech="js node css"
               link="https://kafka.glitch.me/example"
-              repo="https://github.com/yagoestevez/cortala"
+              repo="https://github.com/cortala"
             >
               <small>Built using Node, Express, CSS + Bootstrap and Pug.</small>
               <p>
@@ -316,7 +316,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/ExerciseTracker.jpg'}
               tech="js vue node css"
               link="https://kafka-exercise-tracker.glitch.me"
-              repo="https://github.com/yagoestevez/exercise-tracker"
+              repo="https://github.com/exercise-tracker"
             >
               <small>Built using Node, Express, VueJS + Vue Router and CSS + Bootstrap.</small>
               <p>
@@ -329,7 +329,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/BarChart.jpg'}
               tech="js d3 css"
               link="https://codepen.io/kafka/full/wxjmrB/"
-              repo="https://github.com/yagoestevez/fcc-barchart"
+              repo="https://github.com/fcc-barchart"
             >
               <small>Built using CSS, JS and D3.js.</small>
               <p>A bar chart representing the evolution of the US GDP.</p>
@@ -339,7 +339,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TreemapDiagram.jpg'}
               tech="js d3 css"
               link="https://codepen.io/kafka/full/bjZygz/"
-              repo="https://github.com/yagoestevez/fcc-treemap-diagram"
+              repo="https://github.com/fcc-treemap-diagram"
             >
               <small>Built using CSS, JS and D3.js.</small>
               <p>
@@ -351,7 +351,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/ChoroplethMap.jpg'}
               tech="js d3 css"
               link="https://codepen.io/kafka/full/NBeaWK/"
-              repo="https://github.com/yagoestevez/fcc-choropleth-map"
+              repo="https://github.co/fcc-choropleth-map"
             >
               <small>Built using CSS, JS and D3.js.</small>
               <p>A choropleth map representing the educational attainment by county in the U.S.</p>
@@ -361,7 +361,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/QuotingMachine.jpg'}
               tech="js vue css"
               link="https://codepen.io/kafka/full/bxgEyd/"
-              repo="https://github.com/yagoestevez/random-quoting-machine"
+              repo="https://github.com/random-quoting-machine"
             >
               <small>Built using VueJS, Axios and CSS + Bootstrap.</small>
               <p>A random quoting app which retrieves pictures and quotes from two different APIs.</p>
@@ -371,7 +371,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Calculator.jpg'}
               tech="js react css"
               link="https://codepen.io/kafka/full/ERVONM/"
-              repo="https://github.com/yagoestevez/the-calcoolator"
+              repo="https://github.com/the-calcoolator"
             >
               <small>Built using React and CSS.</small>
               <p>A project on which I built a virtual calculator with its usual features.</p>
@@ -381,7 +381,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TomateTimer.jpg'}
               tech="js react css"
               link="https://codepen.io/kafka/full/dqJGVa"
-              repo="https://github.com/yagoestevez/tomate-time"
+              repo="https://github.com/tomate-time"
             >
               <small>Built using React, CSS and lots of SVG.</small>
               <p>A cute and animated Pomodoro clock to help the users improve their productivity.</p>
@@ -390,8 +390,8 @@ import './style.css'
               title="TicTacToe Game."
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/TicTacToe.jpg'}
               tech="js react css"
-              link="https://codepen.io/yagoestevez/full/KRevzB/"
-              repo="https://github.com/yagoestevez/TicTacToe"
+              link="https://codepen.io/full/KRevzB/"
+              repo="https://github.com/TicTacToe"
             >
               <small>Built using React, CSS and SVG.</small>
               <p>
@@ -403,7 +403,7 @@ import './style.css'
               title="Twitch Clone."
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Twitch.jpg'}
               tech="js vue sass"
-              link="https://codepen.io/yagoestevez/full/xjwVPq/"
+              link="https://codepen.io/full/xjwVPq/"
             >
               {/* repo="https://github.com/yagoestevez/TicTacToe"> */}
               <small>Built using VueJS, Axios and Scss.</small>
@@ -416,9 +416,9 @@ import './style.css'
               title="Weather App."
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/WeatherApp.jpg'}
               tech="js vue css"
-              link="https://codepen.io/kafka/full/zWbGmZ/"
+              link="https://codepen.io/nerdDog007/pen/vYqwxYW"
             >
-              {/* repo="https://github.com/yagoestevez/TicTacToe"> */}
+              repo="https://github.com/TicTacToe"> 
               <small>Built using VueJS, Axios and CSS.</small>
               <p>App that present the users with the current local weather for their location.</p>
             </Project>
@@ -427,7 +427,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Tribute.jpg'}
               tech="js sass"
               link="https://codepen.io/kafka/full/aaaOxL/"
-              repo="https://github.com/yagoestevez/tribute-to-aaron-swartz"
+              repo="https://github.com/tribute-to-aaron-swartz"
             >
               <small>Built using vanilla Javascript and Scss.</small>
               <p>
@@ -439,7 +439,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/SurveyForm.jpg'}
               tech="js sass"
               link="https://codepen.io/kafka/full/bjVgjX/"
-              repo="https://github.com/yagoestevez/membership-form"
+              repo="https://github.com/membership-form"
             >
               <small>Built using vanilla Javascript and Scss.</small>
               <p>An animated survey form.</p>
@@ -449,7 +449,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/LandingPage.jpg'}
               tech="js sass"
               link="https://codepen.io/kafka/full/pOBLeK/"
-              repo="https://github.com/yagoestevez/tomate-timer-landing-page"
+              repo="https://github.com/tomate-timer-landing-page"
             >
               <small>Built using vanilla Javascript and Scss.</small>
               <p>A landing page for the Pomodoro Timer I made (shown previously in this section).</p>
@@ -459,7 +459,7 @@ import './style.css'
               img={'https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Components/Projects/Images/Documentify.jpg'}
               tech="js react css"
               link="https://codepen.io/kafka/full/QxOLKX/"
-              repo="https://github.com/yagoestevez/documentify"
+              repo="https://github.com/documentify"
             >
               <small>Built using React and CSS.</small>
               <p>
