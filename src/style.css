@@ -937,7 +937,6 @@ a:active {
  *****************/
 
 #contact {
-  /* background: #181d23 url(https://raw.githubusercontent.com/yagoestevez/fcc-portfolio/master/src/Images/envelope.svg?sanitize=true) no-repeat right; */
   clip-path: polygon(0 0, 20% 100px, 100% 0, 100% 100%, 0 100%);
   color: #fafafa;
   min-height: 100vh;
@@ -949,6 +948,7 @@ a:active {
   position: relative;
   margin: -100px 0 140px;
   z-index: 1;
+  background-color:#000;
 }
 
 #contact .container {
